@@ -60,18 +60,18 @@
 
 <br>
 
-<h3>📊 GitHub Stats:</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PurvaBhoyar&show_icons=true&locale=en&layout=compact&theme=dark" alt="PurvaBhoyar" />
-</p>
-<br>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PurvaBhoyar&show_icons=true&locale=en&theme=dark" alt="PurvaBhoyar" />
-</p>
-<br>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PurvaBhoyar&theme=dark" alt="PurvaBhoyar" />
-</p>
+## 📊 GitHub Stats:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=PurvaBhoyar&show_icons=true&locale=en&layout=compact&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PurvaBhoyar&show_icons=true&locale=en&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PurvaBhoyar&theme=dark)
+
+## 🧠 LeetCode Stats:
+
+![PurvaBhoyar's LeetCode Stats](https://leetcard.jacoblin.cool/PurvaBhoyar?theme=dark&font=baloo&ext=heatmap)
+
 
 <br>
 
